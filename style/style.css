@@ -1,0 +1,38 @@
+body {
+  background-color: var(--slate-300);
+}
+
+#main {
+  padding: 13px;
+  align-items: center;
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 15%;
+  background-color: var(--white);
+  border-radius: 15px;
+  margin-bottom: 50px;
+}
+
+.cont {
+  text-align: center;
+}
+
+img {
+  border-radius: 15px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-family: "Outfit";
+  font-size: 19px;
+  /* margin-bottom: 10px; */
+}
+
+p {
+  padding: 16px;
+  font-family: "Outfit";
+  font-weight: 300;
+  color: var(--slate-500);
+  font-size: 15px;
+}
